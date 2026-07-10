@@ -1,2 +1,4 @@
 print("Hello Git")
 print("K")
+print("Hello Git")
+print("K")
